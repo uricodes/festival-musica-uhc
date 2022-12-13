@@ -9,4 +9,3 @@ Iteración de los códigos de CSS
 Trabajar sección por sección
 Utilizar la barra del header fija y hacer que el scroll sea fluido y bien visto
 Fue un proyecto nuevo, dificil al principio, pero conforme fuimos avanzando, se me hizo sencillo
-UHC
